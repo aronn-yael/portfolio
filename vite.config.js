@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // Pour domaine personnalisé : utilisez '/'
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio/', // Changez ceci selon le nom de votre repo GitHub
+  base: '/Portfolio/', // Correspond exactement au nom du repo GitHub
 })
